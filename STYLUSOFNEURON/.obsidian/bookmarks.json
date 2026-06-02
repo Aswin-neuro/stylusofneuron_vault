@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1763882840852,
+      "path": "00_dot/me.addictive.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1764314622421,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1764314611594,
+          "path": "_me_/-circuits-/Travelling through art.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1764314611594,
+          "path": "00_obs/Daily Notes/Nov 28,2025.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1764314611594,
+          "path": "_me_/-circuits-/Buncha systems.md"
+        }
+      ],
+      "title": "System_vac-1"
+    }
+  ]
+}

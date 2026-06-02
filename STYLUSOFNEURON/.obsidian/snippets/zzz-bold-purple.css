@@ -1,0 +1,31 @@
+/* ================================================
+   CATPPUCCIN BOLD OVERRIDE: PURE CYAN BLOOM
+   A streamlined snippet to color bold text
+   pure cyan with a soft glow effect.
+   ================================================ */
+
+/* --- Main Override for all DARK Catppuccin Flavors --- */
+/* This single rule targets bold text in both editor and reading modes
+   across Mocha, Macchiato, and Frappe themes. */
+body.theme-dark[class*="catppuccin"] .cm-strong,
+body.theme-dark[class*="catppuccin"] strong {
+  color: #00FFFF !important; /* Pure Cyan / Aqua */
+  text-shadow: 0 0 8px rgba(0, 255, 255, 0.7) !important; /* Pure cyan bloom effect */
+}
+
+/* --- Override for LIGHT Catppuccin Flavor (Latte) --- */
+/* Uses a darker cyan for better readability on light backgrounds. */
+body[class*="latte"] .cm-strong,
+body[class*="latte"] strong {
+  color: #00FFFF !important; /* Dark Cyan for light mode */
+  text-shadow: 0 0 8px rgba(0, 139, 139, 0.5) !important; /* Subtle dark cyan bloom */
+}
+
+/* --- General Dark Mode Fallback --- */
+/* A less specific rule to catch any edge cases in dark mode. */
+.theme-dark .cm-strong,
+.theme-dark strong {
+  color: #00FFFF !important;
+  text-shadow: 0 0 8px rgba(0, 255, 255, 0.7) !important;
+}
+

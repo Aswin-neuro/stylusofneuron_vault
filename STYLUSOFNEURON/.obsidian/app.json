@@ -1,0 +1,32 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  },
+  "newFileLocation": "folder",
+  "newFileFolderPath": "02_notes",
+  "attachmentFolderPath": "01_files",
+  "tabSize": 2,
+  "defaultViewMode": "source",
+  "spellcheck": false,
+  "uriCallbacks": true,
+  "readableLineLength": true,
+  "userIgnoreFilters": [
+    "02_notes/-samarjit-/",
+    "00_obs/"
+  ],
+  "vimMode": true,
+  "showInlineTitle": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "smartIndentList": true,
+  "foldHeading": true,
+  "trashOption": "local",
+  "openBehavior": "daily"
+}

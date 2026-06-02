@@ -1,0 +1,29 @@
+{
+  "accentColor": "#5ccef5",
+  "baseFontSize": 21,
+  "theme": "obsidian",
+  "cssTheme": "Obsidianite",
+  "enabledCssSnippets": [
+    "Anime-callouts",
+    "sticker",
+    "Background",
+    "Anupuccin-themes",
+    "Table styling - Rounded corners",
+    "nn",
+    "background",
+    "sidenote-callout",
+    "snippet_fonts",
+    "snippet_vaultname",
+    "anu_extended_colors",
+    "custom-rainbow-colors",
+    "column",
+    "side_pane_split"
+  ],
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font",
+  "textFontFamily": "Roboto",
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "showRibbon": false,
+  "showViewHeader": true
+}

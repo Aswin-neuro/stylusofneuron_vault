@@ -1,0 +1,8 @@
+.workspace-split.mod-root .view-content {
+    background-size: 30px 30px;
+    background-image:
+    linear-gradient(to left, color-mix(in srgb, #707070 20%, transparent) 1px, transparent 1px),
+    linear-gradient(to top, color-mix(in srgb, #707070 20%, transparent) 1px, transparent 1px);
+}
+
+/*F1B4B0

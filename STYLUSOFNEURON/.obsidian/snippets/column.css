@@ -1,0 +1,11 @@
+
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 1.5rem;
+  align-items: start;
+}
+
+.two-col > div {
+  /* so it looks like a normal note, no border */
+}
